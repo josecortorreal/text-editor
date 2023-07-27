@@ -13,13 +13,7 @@ The Simple Text Editor Web Application allows you to create notes or code snippe
 - Retrieve and load your previously saved content from IndexedDB when you reopen the application.
 
 
-## How to Use
-1. After starting the application, open your web browser and go to the provided URL (usually http://localhost:your_port).
-2. You'll see a client-server folder structure in the browser.
-3. The application should be bundled using Webpack, and you'll find generated HTML, service worker, and manifest files.
-4. Create new text notes or code snippets in the text editor.
-5. Click off the DOM window to automatically save your content to IndexedDB.
-6. Close and reopen the application to see your saved content retrieved from IndexedDB.
+
 
 https://text-editorv10-ed37497e9c4e.herokuapp.com/
 
